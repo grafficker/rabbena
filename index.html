@@ -1,0 +1,50 @@
+<!doctype html>
+<!-- Rabbena indirme sayfasi (Cuma karti paylasim adresi, Marka.indirURL).
+     iPhone/iPad -> App Store, Android -> Google Play; digerlerinde iki dugme.
+     Analitik/cerez YOK. ?k=<kampanya> gelirse magazaya kampanya olarak iletilir
+     (App Store: ct — PT bos oldukca Apple saymaz; Play: utm_campaign). -->
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Rabbena — Namaz vakti, Kur'an, dua</title>
+<meta name="description" content="Rabbena: namaz vakitleri, Kur'an-ı Kerim ve meâli, dualar, kıble. Reklamsız, ücretsiz.">
+<style>
+:root{--zemin:#0f1830;--metin:#f3ead6;--altin:#d4b46a}
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:var(--zemin);color:var(--metin);font-family:-apple-system,system-ui,"Segoe UI",sans-serif;text-align:center;padding:24px;box-sizing:border-box}
+main{max-width:460px}
+h1{font-family:Georgia,serif;color:var(--altin);font-size:2.2em;margin:0 0 .2em;letter-spacing:.04em}
+p{line-height:1.6;margin:.4em 0}
+.dugmeler{display:flex;flex-direction:column;gap:12px;margin:28px 0}
+a.dugme{display:block;padding:14px 18px;border-radius:14px;background:var(--altin);color:#1a1405;font-weight:600;text-decoration:none;font-size:1.05em}
+a.dugme.ikincil{background:transparent;color:var(--metin);border:1px solid rgba(243,234,214,.35)}
+small{opacity:.7}
+small a{color:var(--metin)}
+</style></head>
+<body><main>
+<h1>Rabbena</h1>
+<p>Namaz vakitleri, Kur'an-ı Kerim ve meâli, dualar, kıble.<br>Reklamsız, ücretsiz.</p>
+<p lang="en">Prayer times, the Qur'an with translation, duas, qibla. No ads, free.</p>
+<p lang="ar" dir="rtl">مواقيت الصلاة، القرآن الكريم ومعانيه، الأدعية، القبلة. بلا إعلانات، مجانًا.</p>
+<div class="dugmeler">
+  <a class="dugme" id="ios" href="https://apps.apple.com/app/id6818886786">App Store</a>
+  <a class="dugme ikincil" id="android" href="https://play.google.com/store/apps/details?id=com.velnomi.rabbena">Google Play</a>
+</div>
+<p><small><a href="https://grafficker.github.io/rabbena-gizlilik/">Gizlilik / Privacy</a> · <a href="https://grafficker.github.io/rabbena-gizlilik/destek.html">Destek / Support</a></small></p>
+</main>
+<script>
+(function () {
+  var PT = ""; // App Store Connect saglayici kimligi (Kampanya baglantisi uretecinden); bossa ct sayilmaz
+  var k = (new URLSearchParams(location.search).get("k") || "").replace(/[^a-z0-9_-]/gi, "").slice(0, 40);
+  var ios = "https://apps.apple.com/app/id6818886786";
+  var play = "https://play.google.com/store/apps/details?id=com.velnomi.rabbena";
+  if (k) {
+    ios += "?ct=" + k + (PT ? "&pt=" + PT + "&mt=8" : "");
+    play += "&referrer=" + encodeURIComponent("utm_source=rabbena&utm_medium=paylasim&utm_campaign=" + k);
+  }
+  document.getElementById("ios").href = ios;
+  document.getElementById("android").href = play;
+  var ua = navigator.userAgent || "";
+  var iosMu = /iPhone|iPad|iPod/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1);
+  if (iosMu) location.replace(ios);
+  else if (/Android/.test(ua)) location.replace(play);
+})();
+</script>
+</body></html>
