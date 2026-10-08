@@ -1,0 +1,32 @@
+[
+ {
+  "id": "ios",
+  "t": "App Store",
+  "fv": true,
+  "ol": "auto 1px rgb(16, 16, 16)"
+ },
+ {
+  "id": "android",
+  "t": "Google Play",
+  "fv": true,
+  "ol": "auto 1px rgb(16, 16, 16)"
+ },
+ {
+  "id": "",
+  "t": "Gizlilik / Privacy",
+  "fv": true,
+  "ol": "auto 1px rgb(16, 16, 16)"
+ },
+ {
+  "id": "",
+  "t": "Destek / Support",
+  "fv": true,
+  "ol": "auto 1px rgb(16, 16, 16)"
+ },
+ {
+  "id": "",
+  "t": "\nRabbena\nNamaz vakit",
+  "fv": false,
+  "ol": "none 3px rgb(243, 234, 214)"
+ }
+]

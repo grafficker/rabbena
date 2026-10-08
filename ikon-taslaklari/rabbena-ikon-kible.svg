@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="t"><title id="t">Rabbena - kıble</title>
+<rect width="1024" height="1024" fill="#0f1830"/>
+<circle cx="512" cy="560" r="330" fill="none" stroke="#d4b46a" stroke-width="60"/>
+<path d="M512 270L590 560H434Z" fill="#d4b46a"/>
+<path d="M512 850L590 560H434Z" fill="#f3ead6"/>
+<circle cx="512" cy="560" r="34" fill="#0f1830"/>
+<rect x="422" y="70" width="180" height="170" rx="12" fill="#d4b46a"/>
+<rect x="422" y="112" width="180" height="32" fill="#0f1830"/>
+</svg>

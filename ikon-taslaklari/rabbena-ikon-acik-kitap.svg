@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="t"><title id="t">Rabbena - açık kitap</title>
+<rect width="1024" height="1024" fill="#0f1830"/>
+<path d="M512 380C440 330 330 316 200 330V740C330 726 440 740 512 790Z" fill="#d4b46a"/>
+<path d="M512 380C584 330 694 316 824 330V740C694 726 584 740 512 790Z" fill="#f3ead6"/>
+<path d="M512 380V790" stroke="#0f1830" stroke-width="22" fill="none"/>
+
+<path d="M540 190A96 96 0 1 0 540 330A76 76 0 1 1 540 190Z" fill="#d4b46a"/>
+</svg>

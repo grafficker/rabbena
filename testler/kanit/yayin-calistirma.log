@@ -1,0 +1,81 @@
+DBG2 https://grafficker.github.io/rabbena/ complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] yok: iOS hedefi  -> https://apps.apple.com/app/id6818886786
+GECTI [masaustu] yok: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena
+GECTI [masaustu] yok: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+DBG2 https://grafficker.github.io/rabbena/?k= complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] bos: iOS hedefi  -> https://apps.apple.com/app/id6818886786
+GECTI [masaustu] bos: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena
+GECTI [masaustu] bos: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+DBG2 https://grafficker.github.io/rabbena/?k=cuma_2026-10 complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] normal: iOS hedefi  -> https://apps.apple.com/app/id6818886786?ct=cuma_2026-10
+GECTI [masaustu] normal: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dcuma_2026-10
+GECTI [masaustu] normal: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+DBG2 https://grafficker.github.io/rabbena/?k=a%20b%3Cscript%3Ealert(1)%3C%2Fscript%3E complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] bosluk+etiket: iOS hedefi  -> https://apps.apple.com/app/id6818886786?ct=abscriptalert1script
+GECTI [masaustu] bosluk+etiket: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dabscriptalert1script
+GECTI [masaustu] bosluk+etiket: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+DBG2 https://grafficker.github.io/rabbena/?k=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(1)%3E complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] img-onerror: iOS hedefi  -> https://apps.apple.com/app/id6818886786?ct=imgsrcxonerroralert1
+GECTI [masaustu] img-onerror: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dimgsrcxonerroralert1
+GECTI [masaustu] img-onerror: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+DBG2 https://grafficker.github.io/rabbena/?k=a%26b%3Dc%23d%3Fe%2Ff complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] url-ayiraclari: iOS hedefi  -> https://apps.apple.com/app/id6818886786?ct=abcdef
+GECTI [masaustu] url-ayiraclari: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dabcdef
+GECTI [masaustu] url-ayiraclari: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+DBG2 https://grafficker.github.io/rabbena/?k=..%2F..%2Fetc%2Fpasswd complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] yol-gecisi: iOS hedefi  -> https://apps.apple.com/app/id6818886786?ct=etcpasswd
+GECTI [masaustu] yol-gecisi: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Detcpasswd
+GECTI [masaustu] yol-gecisi: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+DBG2 https://grafficker.github.io/rabbena/?k=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] cok-uzun-100: iOS hedefi  -> https://apps.apple.com/app/id6818886786?ct=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+GECTI [masaustu] cok-uzun-100: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+GECTI [masaustu] cok-uzun-100: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+DBG2 https://grafficker.github.io/rabbena/?k=a%C4%9F%C3%BC%C5%9F%C4%B0%C4%B1%D9%A1%D9%A2 complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] unicode: iOS hedefi  -> https://apps.apple.com/app/id6818886786?ct=a
+GECTI [masaustu] unicode: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Da
+GECTI [masaustu] unicode: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+DBG2 https://grafficker.github.io/rabbena/?k=%00%0d%0aX complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] nul-yuzde: iOS hedefi  -> https://apps.apple.com/app/id6818886786?ct=X
+GECTI [masaustu] nul-yuzde: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3DX
+GECTI [masaustu] nul-yuzde: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+DBG2 https://grafficker.github.io/rabbena/?k=javascript%3Aalert(1) complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] javascript-sema: iOS hedefi  -> https://apps.apple.com/app/id6818886786?ct=javascriptalert1
+GECTI [masaustu] javascript-sema: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Djavascriptalert1
+GECTI [masaustu] javascript-sema: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+DBG2 https://grafficker.github.io/rabbena/?k=ilk&k=ikinci complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] yinelenen-k: iOS hedefi  -> https://apps.apple.com/app/id6818886786?ct=ilk
+GECTI [masaustu] yinelenen-k: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dilk
+GECTI [masaustu] yinelenen-k: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+DBG2 https://grafficker.github.io/rabbena/?k=ABC_def complete Rabbena — Namaz vakti, Kur'an, dua
+GECTI [masaustu] buyuk-harf: iOS hedefi  -> https://apps.apple.com/app/id6818886786?ct=ABC_def
+GECTI [masaustu] buyuk-harf: Android hedefi  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3DABC_def
+GECTI [masaustu] buyuk-harf: sayfada kalir, enjekte eleman/dialog yok  -> istek=0 inj=1 dialog=false
+GECTI [masaustu] 4 baglanti, hepsi https  -> ["https://apps.apple.com/app/id6818886786?ct=test1","https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dtest1","https://grafficker.github.io/rabbena-gizlilik/","https://grafficker.github.io/rabbena-gizlilik/destek.html"]
+GECTI [masaustu] App Store dugmesi tiklaninca ct=test1 ile gider  -> https://apps.apple.com/app/id6818886786?ct=test1
+GECTI [UA emulasyonu] iPhone Safari (k yok) -> ios  -> https://apps.apple.com/app/id6818886786
+GECTI [UA emulasyonu] iPhone Safari ?k=cuma -> ios  -> https://apps.apple.com/app/id6818886786?ct=cuma
+GECTI [UA emulasyonu] iPad (iPadOS UA Macintosh + dokunmatik) (k yok) -> ios  -> https://apps.apple.com/app/id6818886786
+GECTI [UA emulasyonu] iPad (iPadOS UA Macintosh + dokunmatik) ?k=cuma -> ios  -> https://apps.apple.com/app/id6818886786?ct=cuma
+GECTI [UA emulasyonu] Mac masaustu Safari (dokunmatik yok) (k yok) -> kal  -> sayfada kaldi
+GECTI [UA emulasyonu] Mac masaustu Safari (dokunmatik yok) ?k=cuma -> kal  -> sayfada kaldi
+GECTI [UA emulasyonu] Android Chrome (k yok) -> play  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena
+GECTI [UA emulasyonu] Android Chrome ?k=cuma -> play  -> https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dcuma
+GECTI [UA emulasyonu] Windows Chrome (k yok) -> kal  -> sayfada kaldi
+GECTI [UA emulasyonu] Windows Chrome ?k=cuma -> kal  -> sayfada kaldi
+GECTI [UA emulasyonu] Android "masaustu site" modu (Linux UA) (k yok) -> kal  -> sayfada kaldi
+GECTI [UA emulasyonu] Android "masaustu site" modu (Linux UA) ?k=cuma -> kal  -> sayfada kaldi
+AXE 4.14.0 ihlal: 0 belirsiz: 0 gecen kural: 19
+[]
+INCOMPLETE []
+GECTI [axe] ihlal yok (wcag2a/aa/21/22aa + best-practice)
+TAB SIRASI [{"id":"ios","t":"App Store","fv":true,"ol":"auto 1px rgb(16, 16, 16)"},{"id":"android","t":"Google Play","fv":true,"ol":"auto 1px rgb(16, 16, 16)"},{"id":"","t":"Gizlilik / Privacy","fv":true,"ol":"auto 1px rgb(16, 16, 16)"},{"id":"","t":"Destek / Support","fv":true,"ol":"auto 1px rgb(16, 16, 16)"},{"id":"","t":"\nRabbena\nNamaz vakit","fv":false,"ol":"none 3px rgb(243, 234, 214)"}]
+GECTI [klavye] 4 etkilesimli oge, gorsel sirayla (iOS, Android, Gizlilik, Destek) ve odak gorunur  -> ["auto 1px rgb(16, 16, 16)","auto 1px rgb(16, 16, 16)","auto 1px rgb(16, 16, 16)","auto 1px rgb(16, 16, 16)"]
+HEDEF [{"t":"App Store","w":460,"h":51},{"t":"Google Play","w":460,"h":53},{"t":"Gizlilik / Privacy","w":97,"h":18},{"t":"Destek / Support","w":105,"h":18}]
+GECTI [hedef] WCAG 2.2 SC 2.5.8: <24px hedeflerde bosluk istisnasi saglanir  -> [{"t":"App Store","w":460,"h":51},{"t":"Google Play","w":460,"h":53},{"t":"Gizlilik / Privacy","w":97,"h":18},{"t":"Destek / Support","w":105,"h":18}]
+BILGI 44px (AAA 2.5.5, sayilmaz): Gizlilik / Privacy 97x18; Destek / Support 105x18
+GECTI [dar ekran] 320px (WCAG 1.4.10 / %400 esdeger): yatay kaydirma yok  -> {"sw":320,"cw":320,"sh":640}
+GECTI [dar ekran] 640px (%200 esdeger): yatay kaydirma yok  -> {"sw":640,"cw":640,"sh":800}
+GECTI [dar ekran] 375x667 telefon: yatay kaydirma yok  -> {"sw":375,"cw":375,"sh":667}
+GECTI [metin %200] yatay kaydirma yok (640px + font %200)  -> {"sw":640,"cw":640}
+
+TOPLAM gecen=60 kalan=0

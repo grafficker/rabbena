@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="t"><title id="t">Rabbena - mihrab</title>
+<rect width="1024" height="1024" fill="#0f1830"/>
+<path d="M262 840V500C262 360 400 280 512 170C624 280 762 360 762 500V840Z" fill="#d4b46a"/>
+<path d="M366 840V510C366 424 440 372 512 300C584 372 658 424 658 510V840Z" fill="#0f1830"/>
+<circle cx="512" cy="470" r="58" fill="#d4b46a"/>
+
+<rect x="212" y="840" width="600" height="44" rx="22" fill="#d4b46a"/>
+</svg>

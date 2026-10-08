@@ -1,0 +1,307 @@
+{
+ "base": "https://grafficker.github.io/rabbena/",
+ "gecen": 60,
+ "kalan": 0,
+ "sonuc": [
+  {
+   "ad": "[masaustu] yok: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786"
+  },
+  {
+   "ad": "[masaustu] yok: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena"
+  },
+  {
+   "ad": "[masaustu] yok: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] bos: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786"
+  },
+  {
+   "ad": "[masaustu] bos: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena"
+  },
+  {
+   "ad": "[masaustu] bos: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] normal: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=cuma_2026-10"
+  },
+  {
+   "ad": "[masaustu] normal: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dcuma_2026-10"
+  },
+  {
+   "ad": "[masaustu] normal: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] bosluk+etiket: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=abscriptalert1script"
+  },
+  {
+   "ad": "[masaustu] bosluk+etiket: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dabscriptalert1script"
+  },
+  {
+   "ad": "[masaustu] bosluk+etiket: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] img-onerror: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=imgsrcxonerroralert1"
+  },
+  {
+   "ad": "[masaustu] img-onerror: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dimgsrcxonerroralert1"
+  },
+  {
+   "ad": "[masaustu] img-onerror: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] url-ayiraclari: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=abcdef"
+  },
+  {
+   "ad": "[masaustu] url-ayiraclari: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dabcdef"
+  },
+  {
+   "ad": "[masaustu] url-ayiraclari: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] yol-gecisi: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=etcpasswd"
+  },
+  {
+   "ad": "[masaustu] yol-gecisi: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Detcpasswd"
+  },
+  {
+   "ad": "[masaustu] yol-gecisi: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] cok-uzun-100: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  {
+   "ad": "[masaustu] cok-uzun-100: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  {
+   "ad": "[masaustu] cok-uzun-100: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] unicode: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=a"
+  },
+  {
+   "ad": "[masaustu] unicode: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Da"
+  },
+  {
+   "ad": "[masaustu] unicode: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] nul-yuzde: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=X"
+  },
+  {
+   "ad": "[masaustu] nul-yuzde: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3DX"
+  },
+  {
+   "ad": "[masaustu] nul-yuzde: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] javascript-sema: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=javascriptalert1"
+  },
+  {
+   "ad": "[masaustu] javascript-sema: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Djavascriptalert1"
+  },
+  {
+   "ad": "[masaustu] javascript-sema: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] yinelenen-k: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=ilk"
+  },
+  {
+   "ad": "[masaustu] yinelenen-k: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dilk"
+  },
+  {
+   "ad": "[masaustu] yinelenen-k: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] buyuk-harf: iOS hedefi",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=ABC_def"
+  },
+  {
+   "ad": "[masaustu] buyuk-harf: Android hedefi",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3DABC_def"
+  },
+  {
+   "ad": "[masaustu] buyuk-harf: sayfada kalir, enjekte eleman/dialog yok",
+   "ok": true,
+   "ayrinti": "istek=0 inj=1 dialog=false"
+  },
+  {
+   "ad": "[masaustu] 4 baglanti, hepsi https",
+   "ok": true,
+   "ayrinti": "[\"https://apps.apple.com/app/id6818886786?ct=test1\",\"https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dtest1\",\"https://grafficker.github.io/rabbena-gizlilik/\",\"https://grafficker.github.io/rabbena-gizlilik/destek.html\"]"
+  },
+  {
+   "ad": "[masaustu] App Store dugmesi tiklaninca ct=test1 ile gider",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=test1"
+  },
+  {
+   "ad": "[UA emulasyonu] iPhone Safari (k yok) -> ios",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786"
+  },
+  {
+   "ad": "[UA emulasyonu] iPhone Safari ?k=cuma -> ios",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=cuma"
+  },
+  {
+   "ad": "[UA emulasyonu] iPad (iPadOS UA Macintosh + dokunmatik) (k yok) -> ios",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786"
+  },
+  {
+   "ad": "[UA emulasyonu] iPad (iPadOS UA Macintosh + dokunmatik) ?k=cuma -> ios",
+   "ok": true,
+   "ayrinti": "https://apps.apple.com/app/id6818886786?ct=cuma"
+  },
+  {
+   "ad": "[UA emulasyonu] Mac masaustu Safari (dokunmatik yok) (k yok) -> kal",
+   "ok": true,
+   "ayrinti": "sayfada kaldi"
+  },
+  {
+   "ad": "[UA emulasyonu] Mac masaustu Safari (dokunmatik yok) ?k=cuma -> kal",
+   "ok": true,
+   "ayrinti": "sayfada kaldi"
+  },
+  {
+   "ad": "[UA emulasyonu] Android Chrome (k yok) -> play",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena"
+  },
+  {
+   "ad": "[UA emulasyonu] Android Chrome ?k=cuma -> play",
+   "ok": true,
+   "ayrinti": "https://play.google.com/store/apps/details?id=com.velnomi.rabbena&referrer=utm_source%3Drabbena%26utm_medium%3Dpaylasim%26utm_campaign%3Dcuma"
+  },
+  {
+   "ad": "[UA emulasyonu] Windows Chrome (k yok) -> kal",
+   "ok": true,
+   "ayrinti": "sayfada kaldi"
+  },
+  {
+   "ad": "[UA emulasyonu] Windows Chrome ?k=cuma -> kal",
+   "ok": true,
+   "ayrinti": "sayfada kaldi"
+  },
+  {
+   "ad": "[UA emulasyonu] Android \"masaustu site\" modu (Linux UA) (k yok) -> kal",
+   "ok": true,
+   "ayrinti": "sayfada kaldi"
+  },
+  {
+   "ad": "[UA emulasyonu] Android \"masaustu site\" modu (Linux UA) ?k=cuma -> kal",
+   "ok": true,
+   "ayrinti": "sayfada kaldi"
+  },
+  {
+   "ad": "[axe] ihlal yok (wcag2a/aa/21/22aa + best-practice)",
+   "ok": true,
+   "ayrinti": ""
+  },
+  {
+   "ad": "[klavye] 4 etkilesimli oge, gorsel sirayla (iOS, Android, Gizlilik, Destek) ve odak gorunur",
+   "ok": true,
+   "ayrinti": "[\"auto 1px rgb(16, 16, 16)\",\"auto 1px rgb(16, 16, 16)\",\"auto 1px rgb(16, 16, 16)\",\"auto 1px rgb(16, 16, 16)\"]"
+  },
+  {
+   "ad": "[hedef] WCAG 2.2 SC 2.5.8: <24px hedeflerde bosluk istisnasi saglanir",
+   "ok": true,
+   "ayrinti": "[{\"t\":\"App Store\",\"w\":460,\"h\":51},{\"t\":\"Google Play\",\"w\":460,\"h\":53},{\"t\":\"Gizlilik / Privacy\",\"w\":97,\"h\":18},{\"t\":\"Destek / Support\",\"w\":105,\"h\":18}]"
+  },
+  {
+   "ad": "[dar ekran] 320px (WCAG 1.4.10 / %400 esdeger): yatay kaydirma yok",
+   "ok": true,
+   "ayrinti": "{\"sw\":320,\"cw\":320,\"sh\":640}"
+  },
+  {
+   "ad": "[dar ekran] 640px (%200 esdeger): yatay kaydirma yok",
+   "ok": true,
+   "ayrinti": "{\"sw\":640,\"cw\":640,\"sh\":800}"
+  },
+  {
+   "ad": "[dar ekran] 375x667 telefon: yatay kaydirma yok",
+   "ok": true,
+   "ayrinti": "{\"sw\":375,\"cw\":375,\"sh\":667}"
+  },
+  {
+   "ad": "[metin %200] yatay kaydirma yok (640px + font %200)",
+   "ok": true,
+   "ayrinti": "{\"sw\":640,\"cw\":640}"
+  }
+ ]
+}
